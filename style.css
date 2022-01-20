@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins",sans-serif;
+    background-image:linear-gradient(
+        to right,
+        #52006A,
+        #dd24777a 51%,
+        #ff512f 100%
+     );
+    
+}
+.card-img-top{
+    height: 250px;
+    width: 335px;
+}
+.card{
+    margin-bottom: 40px;
+}
+@media (max-width: 768px){
+    .card-img-top{
+        height: 250px;
+        width: 335px;
+    }
+    
+}
+@media (min-width: 1020px){
+    .card-img-top{
+        height: 250px;
+        width: 355px;
+    }
+    
+}
