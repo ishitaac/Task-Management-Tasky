@@ -7,9 +7,20 @@ body{
     font-family: "Poppins",sans-serif;
     background-image:linear-gradient(
         to right,
-        #52006A,
-        #dd24777a 51%,
-        #ff512f 100%
+        /* #52006A,#ffecd2 51%,
+        #fcb69f 100% */
+        /* #fdfcfb 20% ,
+        #E8E1DB 51%,
+        #e2d1c3 100% */
+/*         
+#ee9ca7 50%,
+ #ffdde1 100% */
+ 
+ 
+#eacda3 50%,
+ #d6ae7b 100%
+        /* #dd24777a 51%,
+        #ff512f 100% */
      );
     
 }
@@ -34,3 +45,4 @@ body{
     }
     
 }
+
